@@ -9,38 +9,6 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "/storage/emulated/0/games/cps3/sfiiin.zip",
-      "label": "街头霸王3.1 新纪元",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "9C57FA04|crc",
-      "db_name": "Capcom - CP System III.lpl"
-    },
-    {
-      "path": "/storage/emulated/0/games/cps3/sfiii3.zip",
-      "label": "街头霸王3.3 未来战斗",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "36056B5E|crc",
-      "db_name": "Capcom - CP System III.lpl"
-    },
-    {
-      "path": "/storage/emulated/0/games/cps3/sfiii2.zip",
-      "label": "街头霸王3.2 巨型打击",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "EF7FA548|crc",
-      "db_name": "Capcom - CP System III.lpl"
-    },
-    {
-      "path": "/storage/emulated/0/games/cps3/redearth.zip",
-      "label": "赤色大地",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "F357FAC2|crc",
-      "db_name": "Capcom - CP System III.lpl"
-    },
-    {
       "path": "/storage/emulated/0/games/cps3/jojon.zip",
       "label": "JOJO的奇妙冒险1",
       "core_path": "DETECT",
@@ -54,6 +22,38 @@
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DBE72E53|crc",
+      "db_name": "Capcom - CP System III.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/games/cps3/sfiiin.zip",
+      "label": "街头霸王3.1 新纪元",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9C57FA04|crc",
+      "db_name": "Capcom - CP System III.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/games/cps3/sfiii2.zip",
+      "label": "街头霸王3.2 巨型打击",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EF7FA548|crc",
+      "db_name": "Capcom - CP System III.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/games/cps3/sfiii3.zip",
+      "label": "街头霸王3.3 未来战斗",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "36056B5E|crc",
+      "db_name": "Capcom - CP System III.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/games/cps3/redearth.zip",
+      "label": "赤色大地",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F357FAC2|crc",
       "db_name": "Capcom - CP System III.lpl"
     }
   ]
